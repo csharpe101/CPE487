@@ -1,2 +1,2 @@
 # CPE487
-For Fall 2020 CPE 487 course
+These Labs are from my Fall 2020 CPE487: Digital System Design course
